@@ -1,6 +1,6 @@
 package com.javastudy.chapter7;
 
-public class Modifier {
+public class Modifier01 {
     /**
      * 제어자
      *  클래스, 변수 또는 메서드의 선언부에 함께 사용되어 부가적인 의미를 부여한다.
