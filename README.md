@@ -1,8 +1,11 @@
 책 "Java의 정석"을 참고하여 자바 언어에 대한 학습 내용을 정리한 저장소 입니다.
 
 목차
+
 Chapter 1. 자바를 시작하기 전에
+
 Chapter 2. 변수
+
 Chapter 3. 연산자
 Chapter 4. 조건문과 반복문
 Chapter 5. 배열
