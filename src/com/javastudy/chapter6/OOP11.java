@@ -15,9 +15,11 @@ public class OOP11 {
     public static void main(String[] args){
         Car c1 = new Car();
         Car c2 = new Car("blue");
+        Car c3 = new Car("red", "manual", 2);
 
         System.out.println("c1의 색은 " + c1.color + ", 기어는 " + c1.gearType + ", 문의 수는 " + c1.door + "개 입니다.");
         System.out.println("c2의 색은 " + c2.color + ", 기어는 " + c2.gearType + ", 문의 수는 " + c2.door + "개 입니다.");
+        System.out.println("c3의 색은 " + c3.color + ", 기어는 " + c3.gearType + ", 문의 수는 " + c3.door + "개 입니다.");
     }
 }
 
