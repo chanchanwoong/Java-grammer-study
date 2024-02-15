@@ -11,11 +11,11 @@ public class Modifier03 {
      *      클래스, 메서드, 멤버변수, 지역변수
      */
 }
-final class finalTest{
+final class FinalTest{
     int x = 3;
 }
 
 // test1은 조상클래스가 될 수 없어졌다.
-//class finalTest2 extends finalTest{
+//class FinalTest2 extends finalTest{
 //    int y = 5;
 //}
