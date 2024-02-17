@@ -20,6 +20,11 @@ class SmartTv extends Tv{
         this.channel = channel;
         this.caption = caption;
     }
+
+    public SmartTv() {
+
+    }
+
     void displayCaption(String text){
         if (caption){       // 자막이 켜져잇을 때만 text 출력
             System.out.println(text);
