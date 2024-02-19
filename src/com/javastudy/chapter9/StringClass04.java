@@ -6,7 +6,7 @@ import java.util.Date;
 public class StringClass04 {
     /**
      * 문자열과 기본형 변환
-     *  문자열에서 기본형으로 변환, parse 붙힌 메서드를 쓴다.
+     *  문자열에서 기본형으로 변환, parse 붙힌 메서드를 쓴다. (여기서 사용되는 클래스는 wrapper 클래스로 추후에 학습)
      *  Boolean.parseBoolean(String s)
      *  Byte.parseByte(String s)
      *  Short.parseShort(String s)
