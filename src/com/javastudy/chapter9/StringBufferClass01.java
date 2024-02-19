@@ -14,6 +14,8 @@ public class StringBufferClass01 {
      *
      *  StringBuffer의 buffer 크기를 늘리고 싶으면, 새로운 StringBuffer 인스턴스를 만들고
      *      기존의 내용물을 복사해서 넣어줘야 한다.
+     *
+     *  StringBuffer를 사용하는게 문자열보다 빠르고 효율적이다!!
      */
 
 }
