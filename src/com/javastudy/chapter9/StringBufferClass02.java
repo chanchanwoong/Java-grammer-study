@@ -2,7 +2,7 @@ package com.javastudy.chapter9;
 
 public class StringBufferClass02 {
     /**
-     * StringBuffer 변경
+     * StringBuffer 내용 비교
      *  String 클래스와 달리 StringBuffer는 내용 변경이 가능하다. (buffer로 인함)
      *  내용 추가로 append() 메서드를 사용할 수 있다.
      *      append() 메서드는 내용이 추가된 StringBuffer를 반환해준다.
