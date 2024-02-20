@@ -4,7 +4,7 @@ import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.LocalTime;
 
-public class TimeClass01 {
+public class TimePackage01 {
     /**
      * 기존 Calendar, Date 클래스에는 다음과 같은 문제점이 있었다.
      *  1. 불변객체가 아님
