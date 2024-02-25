@@ -12,6 +12,7 @@ public class List02 {
      *
      *  메서드
      *      ArrayList() : 크기가 10인 ArrayList 생성
+     *      ArrayList(Collection c) : 주어진 컬렉션이 저장된 ArrayList 생성
      *      ArrayList(int initialCapacity) : 초기용량을 가지는 ArrayList 생성
      *      boolean add(Object o) : ArrayList의 마지막에 객체를 추가한다.
      *      void add(int index, Object element) : 지정된 위치에 객체를 저장
