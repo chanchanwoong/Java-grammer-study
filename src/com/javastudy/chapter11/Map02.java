@@ -22,7 +22,7 @@ public class Map02 {
      *      Object get(Object key) : 지정된 키의 값을 반환
      *      Object getOrDefault(Object key, Object defaultValue) : 지정된 키와 값을 반환하는데, 키가 없으면 기본값 반환
      *      boolean isEmpty() : HashMap이 비었는지 확인
-     *      Set keySet() : HashMap에 젖아된 모든 키가 저장된 Set반환
+     *      Set keySet() : HashMap에 저장된 모든 키가 저장된 Set반환
      *      Object put(Object key, Object value) : 지정된 키와 값을 HashMap에 저장
      *      void putAll(Map m) : Map에 저장된 모든 요소를 HashMap에 저장
      *      Object remove(Object key) : HashMap에 지정된 키로 저장된 값 제거
